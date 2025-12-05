@@ -1,1 +1,1 @@
-console.log("Hola desde main modificando para conflicto"); 
+console.log("Conflicto hecho por mi"); 
